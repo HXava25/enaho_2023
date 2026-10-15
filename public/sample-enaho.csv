@@ -1,0 +1,7 @@
+department,year,povertyRate,monthlyIncome,employmentRate,educationYears,waterAccess,electricityAccess,internetAccess
+Lima,2024,17.1,2050,69.8,11.5,93,99,82
+Cajamarca,2024,40.5,1030,76.2,7.8,64,76,19
+Junín,2024,22.6,1490,73.5,9.7,80,92,49
+Lima,2023,18.4,2013,70.3,11.5,93.5,99.25,83.4
+Cajamarca,2023,41.8,1011,76.7,7.8,64.5,76.25,20.4
+Junín,2023,23.9,1463,74,9.7,80.5,92.25,50.4
